@@ -1,0 +1,6 @@
+# Ignore HDF5 files
+*.h5
+
+# Ignore other large files
+*.log
+*.tmp
