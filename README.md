@@ -35,7 +35,11 @@ Tea stem diseases such as Stem Canker, Pink Wax Disease, and Live Wood Termite i
 
 ## 🖼️ Visualizations
 - Confusion Matrices for Best Models
+- ![image](https://github.com/user-attachments/assets/8278e7b5-7fa6-48cc-9b0c-a3047d85e802)
+
 - Training vs. Validation Accuracy and Loss Graphs
+- ![image](https://github.com/user-attachments/assets/eb1072cb-1884-4181-9e11-f5f18d137e4c)
+
 
 ## 🚀 Future Work
 - Expand dataset to include more environmental variations.
